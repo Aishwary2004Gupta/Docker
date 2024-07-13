@@ -1,0 +1,8 @@
+FROM node:current-alpine3.19
+WORKDIR /MyApp
+COPY . /MyApp
+# it needs the node_modules directory to run
+# this is repopulate that 
+RUN npm install
+EXPOSE 3000
+CMD node index.js
