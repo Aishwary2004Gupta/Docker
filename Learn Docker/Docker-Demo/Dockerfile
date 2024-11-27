@@ -14,4 +14,3 @@ ENV PORT=8080
 
 # #Default command that executed when we start the container
 CMD [ "echo", "Learning Docker is fun, as of now 😊" ]
-
