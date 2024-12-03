@@ -20,6 +20,14 @@ Before getting started, ensure you have the following installed on your system:
 - [Docker Compose](https://docs.docker.com/compose/)
 - Basic knowledge of Linux commands and YAML (optional but helpful)
 
+## 🔧 How to Use This Repository
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Aishwary2004Gupta/Docker.git
+   cd Docker
+   ```
+
 
 <!-- If this is your first time learning /working with docker then this is one of the best repo that you can use to start your journey in Docker.
 This repo contains varius different tasks that you should perform through Docker.
