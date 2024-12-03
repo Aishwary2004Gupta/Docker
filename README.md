@@ -52,6 +52,10 @@ Before getting started, ensure you have the following installed on your system:
 
 Contributions are welcome! If you have a great Docker use case or challenge to add, feel free to fork the repository, make your changes, and submit a pull request.
 
+## 📝 License
+
+This repository is open-source and available under the [MIT License](LICENSE).
+
 
 <!-- If this is your first time learning /working with docker then this is one of the best repo that you can use to start your journey in Docker.
 This repo contains varius different tasks that you should perform through Docker.
