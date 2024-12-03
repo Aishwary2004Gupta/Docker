@@ -12,6 +12,14 @@ This repository is designed to provide hands-on experience with Docker. Unlike t
 - **No Spoon-Feeding**: Solve problems with minimal guidance to build confidence and critical thinking.
 - **Real-World Scenarios**: Learn concepts that are directly applicable to real-world Docker implementations.
 
+## 🛠️ Prerequisites
+
+Before getting started, ensure you have the following installed on your system:
+
+- [Docker](https://www.docker.com/) (latest version)
+- [Docker Compose](https://docs.docker.com/compose/)
+- Basic knowledge of Linux commands and YAML (optional but helpful)
+
 
 <!-- If this is your first time learning /working with docker then this is one of the best repo that you can use to start your journey in Docker.
 This repo contains varius different tasks that you should perform through Docker.
