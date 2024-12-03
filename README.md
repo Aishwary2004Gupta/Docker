@@ -56,4 +56,3 @@ Contributions are welcome! If you have a great Docker use case or challenge to a
 
 This repository is open-source and available under the [MIT License](LICENSE).
 
-
