@@ -42,6 +42,11 @@ Before getting started, ensure you have the following installed on your system:
 
 5. Experiment, debug, and have fun!
 
+## 📂 Repository Structure
+
+- **Task Directories**: Each task has its own directory, containing `README.md` for instructions and relevant files.
+- **Compose Files**: Pre-configured `docker-compose.yml` files are provided for ease of use.
+- **Scripts**: Utility scripts for repetitive tasks.
 
 <!-- If this is your first time learning /working with docker then this is one of the best repo that you can use to start your journey in Docker.
 This repo contains varius different tasks that you should perform through Docker.
