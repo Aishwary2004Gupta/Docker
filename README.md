@@ -28,6 +28,20 @@ Before getting started, ensure you have the following installed on your system:
    cd Docker
    ```
 
+2. Browse through the folders to explore tasks and challenges.
+
+3. Run the Docker containers as per the task instructions using:
+   ```bash
+   docker-compose up
+   ```
+
+4. Stop and clean up the environment when done:
+   ```bash
+   docker-compose down -v
+   ```
+
+5. Experiment, debug, and have fun!
+
 
 <!-- If this is your first time learning /working with docker then this is one of the best repo that you can use to start your journey in Docker.
 This repo contains varius different tasks that you should perform through Docker.
