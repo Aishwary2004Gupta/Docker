@@ -6,7 +6,7 @@ Welcome to this Docker learning repository! Whether you’re just starting your 
 
 This repository is designed to provide hands-on experience with Docker. Unlike traditional tutorials where you follow step-by-step guides, the tasks here encourage you to think, experiment, and problem-solve independently. This approach ensures a deeper understanding of Docker concepts and practical usage.
 
-## 🚀 Features
+## 🚀 Features 
 
 - **Task-based Learning**: Each challenge is designed to test your understanding of Docker concepts.
 - **No Spoon-Feeding**: Solve problems with minimal guidance to build confidence and critical thinking.
